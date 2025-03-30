@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <title>My Profile</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>My Profile</h1>
+        <nav>
+            <ul>
+                <li>About</li>
+                <li>Hobbies</li>
+                <li>Contact</li>
+                <li>Bio</li>
+            </ul>
+        </nav>
+    </header>
+    
+    <!-- Bio Section -->
+    <section>
+        <h2>About Me</h2>
+        <img src="https://via.placeholder.com/150" alt="Profile Picture">
+        <p>Hi, I'm Carboo Stanley Eke., a passionate entrepreneur and owner of SEC Computer Agency with expertise in digital marketing, web/graphic design, and IT consultancy. I enjoy creating innovative solutions and sharing knowledge through engaging content.</p>
+    </section>
+    
+    <!-- Hobbies Section -->
+    <section>
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Blogging</li>
+            <li>Writing</li>
+            <li>Creating Engaging Social Media Content</li>
+            <li>Story Writing</li>
+            <li>Digital Marketing</li>
+        </ul>
+    </section>
+    
+    <!-- Footer Section -->
+    <footer>
+        <h2>Contact</h2>
+        <p>Email: carboostanley.e@gmail.com</p>
+        <p>Address: Omoku, Port Harcourt, Rivers State</p>
+        <p>Tel: 07087380611</p>
+        <p>Facebook: Carboo E Stanley</p>
+        <p>LinkedIn: secwebdesigns</p>
+    </footer>
+</body>
+</html>
